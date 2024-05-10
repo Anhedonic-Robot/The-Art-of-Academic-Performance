@@ -41,3 +41,8 @@ If you need support with this project, please follow these steps:
 All issue reports are highly appreciated. If you're having trouble with
 something, it's highly likely that someone else is having the exact same issues
 as you. Please, don't hesitate to create a report. 
+
+### Credits
+
+A special thanks to the following people. 
+
