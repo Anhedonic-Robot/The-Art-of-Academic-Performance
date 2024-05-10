@@ -1,0 +1,15 @@
+<svg width="1000" height="1000">
+	<rect width="100%" height="100%" stroke-width="2%" stroke="black" fill="white" />
+	<line x1="50%" y1="10%" x2="50%" y2="90%" stroke-width="2%" stroke="black" />
+	<line x1="10%" y1="50%" x2="90%" y2="50%" stroke-width="2%" stroke="black" />
+	<polygon points="500,500 333,800 667,800" stroke="black" stroke-width="2%" fill="white" />
+	<circle cx="50%" cy="50%" r="25%" stroke="black" stroke-width="2%" fill="white" />
+	<ellipse cx="50%" cy="36%" rx="50" ry="30" stroke="black" stroke-width="2%" fill="white"/>
+	<line x1="50%" y1="39%" x2="50%" y2="66%" stroke-width="2%" stroke="black" />
+	<line x1="53%" y1="60%" x2="53%" y2="65%" stroke-width="3%" stroke="black" />
+	<line x1="55%" y1="60%" x2="55%" y2="61%" stroke-width="2%" stroke="black" />
+	<line x1="55%" y1="62%" x2="55%" y2="63%" stroke-width="2%" stroke="black" />
+	<line x1="55%" y1="64%" x2="55%" y2="65%" stroke-width="2%" stroke="black" />
+	<line x1="51%" y1="61%" x2="51%" y2="64%" stroke-width="1%" stroke="black" />
+	<circle cx="50%" cy="58%" r="1.1%" stroke-width="2%" fill="black" />
+</svg>
