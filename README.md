@@ -44,5 +44,4 @@ as you. Please, don't hesitate to create a report.
 
 ### Credits
 
-A special thanks to the following people. 
-
+For project credits, please see ThankYou.md
